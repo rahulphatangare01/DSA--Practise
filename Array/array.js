@@ -8,3 +8,9 @@ console.log(`Array length ${array.length}`);
 
 const content = ["Rahul","Amol","Sagar","Shivam"];
 document.getElementById("demo").innerHTML = content.toString();
+
+//  pop 
+const car = ["Tata", "Suzuki", "Mahindra","KIA","Toyota"];
+ console.log(`array pop method ${car.pop()}`)
+
+//  
